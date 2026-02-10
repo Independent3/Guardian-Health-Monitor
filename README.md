@@ -99,6 +99,6 @@ Navigate to: `http://127.0.0.1:8000/docs`
 
 **Nikolaos Vasilakopoulos**
 
-**🌍 Portfolio:** (https://github.com/Independent3)
+**🌍 Portfolio:** (https://github.com/Independent3 , https://www.linkedin.com/in/nikolaos-vasilakopoulos-85714b3b0/)
 
 **📧 Email:** nickvasilakopoulos@rocketmail.com
